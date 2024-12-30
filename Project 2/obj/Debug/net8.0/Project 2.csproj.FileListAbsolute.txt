@@ -1,0 +1,14 @@
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\Project 2\bin\Debug\net8.0\Project 2.exe
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\Project 2\bin\Debug\net8.0\Project 2.deps.json
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\Project 2\bin\Debug\net8.0\Project 2.runtimeconfig.json
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\Project 2\bin\Debug\net8.0\Project 2.dll
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\Project 2\bin\Debug\net8.0\Project 2.pdb
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\Project 2\obj\Debug\net8.0\Project 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\Project 2\obj\Debug\net8.0\Project 2.AssemblyInfoInputs.cache
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\Project 2\obj\Debug\net8.0\Project 2.AssemblyInfo.cs
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\Project 2\obj\Debug\net8.0\Project 2.csproj.CoreCompileInputs.cache
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\Project 2\obj\Debug\net8.0\Project 2.dll
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\Project 2\obj\Debug\net8.0\refint\Project 2.dll
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\Project 2\obj\Debug\net8.0\Project 2.pdb
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\Project 2\obj\Debug\net8.0\Project 2.genruntimeconfig.cache
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\Project 2\obj\Debug\net8.0\ref\Project 2.dll

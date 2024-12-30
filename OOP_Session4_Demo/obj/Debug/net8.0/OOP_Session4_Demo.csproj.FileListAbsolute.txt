@@ -1,0 +1,14 @@
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\OOP_Session4_Demo\bin\Debug\net8.0\OOP_Session4_Demo.exe
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\OOP_Session4_Demo\bin\Debug\net8.0\OOP_Session4_Demo.deps.json
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\OOP_Session4_Demo\bin\Debug\net8.0\OOP_Session4_Demo.runtimeconfig.json
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\OOP_Session4_Demo\bin\Debug\net8.0\OOP_Session4_Demo.dll
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\OOP_Session4_Demo\bin\Debug\net8.0\OOP_Session4_Demo.pdb
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\OOP_Session4_Demo\obj\Debug\net8.0\OOP_Session4_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\OOP_Session4_Demo\obj\Debug\net8.0\OOP_Session4_Demo.AssemblyInfoInputs.cache
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\OOP_Session4_Demo\obj\Debug\net8.0\OOP_Session4_Demo.AssemblyInfo.cs
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\OOP_Session4_Demo\obj\Debug\net8.0\OOP_Session4_Demo.csproj.CoreCompileInputs.cache
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\OOP_Session4_Demo\obj\Debug\net8.0\OOP_Session4_Demo.dll
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\OOP_Session4_Demo\obj\Debug\net8.0\refint\OOP_Session4_Demo.dll
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\OOP_Session4_Demo\obj\Debug\net8.0\OOP_Session4_Demo.pdb
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\OOP_Session4_Demo\obj\Debug\net8.0\OOP_Session4_Demo.genruntimeconfig.cache
+C:\Web\Backend\C#\02 OOP\Session 3\OOP_Session4\OOP_Session4_Demo\obj\Debug\net8.0\ref\OOP_Session4_Demo.dll
